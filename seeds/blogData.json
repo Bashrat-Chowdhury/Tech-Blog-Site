@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Be dynamic with handlebar templates",
+    "description": "Handlebars is a versatile templating engine that simplifies dynamic content rendering in web applications. Its simple and intuitive syntax allows developers to create dynamic HTML templates easily, making it a valuable tool for building dynamic web pages."
+  },
+  {
+    "name": "JavaScript: Empowering Web Development for the Modern Age",
+    "description": "JavaScript is the backbone of modern web development, empowering developers to create interactive and dynamic websites. With its wide adoption and support across browsers, JavaScript continues to evolve, making it an essential language for building robust and engaging web applications."
+  },
+  {
+    "name": "Node.js for your apps!",
+    "description": "Node.js is a powerful runtime environment that has revolutionized web development, allowing developers to use JavaScript for server-side scripting. Its non-blocking, event-driven architecture makes it ideal for building scalable and efficient applications, making Node.js a must-know technology for modern web developers."
+  }
+]
